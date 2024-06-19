@@ -1,8 +1,10 @@
+import AlunoTable from "./components/Alunos/AlunoTable"
+
 function App() {
 
   return (
     <> 
-      <h1> Hello world </h1>
+      <AlunoTable/>
     </>
   )
 }
